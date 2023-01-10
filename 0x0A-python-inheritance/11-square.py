@@ -1,5 +1,3 @@
-nes (12 sloc)  393 Bytes
-
  a Rectangle subclass Square."""
 Rectangle = __import__('9-rectangle').Rectangle
 
